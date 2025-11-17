@@ -17,7 +17,7 @@ Aplikasi Flutter modern dengan desain minimalis menggunakan warna dominan **puti
 ```
 lib/
 ├── constants/
-│   └── app_theme.dart          # Theme configuration dengan warna sage green
+│   └── app_theme.dart          # Theme configuration dengan warna biru
 ├── routes/
 │   └── app_routes.dart         # Route definitions
 ├── services/
