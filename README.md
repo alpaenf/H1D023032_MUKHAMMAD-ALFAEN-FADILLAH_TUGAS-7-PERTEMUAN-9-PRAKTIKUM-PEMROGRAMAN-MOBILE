@@ -1,4 +1,4 @@
-# NIM_Tugas7 - Flutter App with Sage Green Theme
+# H1D023032_Tugas7 
 
 Aplikasi Flutter modern dengan desain minimalis menggunakan warna dominan **putih** dan **sage green**, serta font **Poppins**.
 
