@@ -12,23 +12,6 @@ Aplikasi Flutter modern dengan desain minimalis menggunakan warna dominan **puti
 - **Local Storage**: Penyimpanan data login menggunakan SharedPreferences
 - **Routing**: Navigasi terstruktur dengan named routes
 
-## 🎨 Desain
-
-### Color Palette
-- **Pure White**: `#FFFFFF` - Background utama
-- **Sage Green Dark**: `#C8D2C0` - Primary color
-- **Sage Green**: `#D8E2D4` - Secondary color
-- **Sage Green Light**: `#E8F2E4` - Input backgrounds
-- **Accent Green**: `#A8BDA3` - Accent elements
-
-### Typography
-- Font Family: **Poppins** (via Google Fonts)
-- Heading 1: 32px Bold
-- Heading 2: 24px Semi-Bold
-- Heading 3: 20px Semi-Bold
-- Body Text: 16px Regular
-- Subtitle: 14px Medium
-
 ## 📁 Struktur Proyek
 
 ```
@@ -90,7 +73,7 @@ lib/
 - Info hint box
 
 ### Dashboard
-- Welcome card dengan gradient sage green
+- Welcome card dengan warna biru
 - Quick stats grid (Tasks, Progress, Notifications, Points)
 - Recent activity list dengan timestamps
 - Smooth animations dan shadows
@@ -143,6 +126,7 @@ Proyek ini mencakup:
 - Form validation
 - Responsive layout
 
+## Demo Proyek
 ---
 
-**Dibuat dengan ❤️ menggunakan Flutter dan warna sage green yang menenangkan**
+
