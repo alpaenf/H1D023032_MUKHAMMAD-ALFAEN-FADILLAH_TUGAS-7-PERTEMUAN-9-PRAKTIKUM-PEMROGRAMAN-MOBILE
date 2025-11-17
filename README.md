@@ -1,6 +1,6 @@
 # H1D023032_Tugas7 
 
-Aplikasi Flutter modern dengan desain minimalis menggunakan warna dominan **putih** dan **sage green**, serta font **Poppins**.
+Aplikasi Flutter modern dengan desain minimalis menggunakan warna dominan **putih** dan **biru**, serta font **Poppins**.
 
 ## ✨ Fitur
 
