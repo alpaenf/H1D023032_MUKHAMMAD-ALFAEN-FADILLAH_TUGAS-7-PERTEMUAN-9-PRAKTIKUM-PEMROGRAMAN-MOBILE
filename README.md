@@ -67,7 +67,7 @@ lib/
 
 ### Login Page
 - Desain minimalis dengan icon circular
-- Input fields dengan sage green theme
+- Input fields dengan biru theme
 - Password visibility toggle
 - Loading state saat login
 - Info hint box
@@ -91,7 +91,7 @@ lib/
 - About dialog dengan app information
 
 ### Side Menu
-- Gradient header dengan sage green
+- Gradient header dengan biru
 - User avatar dan welcome message
 - Icon-based navigation items
 - Active state indicators
@@ -101,11 +101,11 @@ lib/
 
 Aplikasi ini menggunakan pendekatan **soft minimalism** dengan:
 - **Clean backgrounds**: Dominasi warna putih untuk kesan bersih
-- **Sage green accents**: Warna hijau sage yang lembut untuk elemen interaktif
+- **Sage green accents**: Warna biru yang lembut untuk elemen interaktif
 - **Proper spacing**: Padding dan margin yang konsisten
 - **Rounded corners**: Border radius 12-20px untuk kesan modern
 - **Subtle shadows**: Box shadow lembut untuk depth
-- **Gradient elements**: Gradient sage green untuk highlight areas
+- **Gradient elements**: Gradient biru untuk highlight areas
 - **Icon consistency**: Icons dengan background colored containers
 
 ## 🔐 Keamanan
