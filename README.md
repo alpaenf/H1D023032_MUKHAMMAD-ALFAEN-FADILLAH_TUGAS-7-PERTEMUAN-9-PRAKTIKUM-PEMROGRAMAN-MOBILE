@@ -127,7 +127,7 @@ Proyek ini mencakup:
 - Responsive layout
 
 ## 🔗 Link Demo
-Kamu dapat melihat demo aplikasi dibawah ini  
+Asprak dapat melihat demo aplikasi dibawah ini  
 <img src="https://github.com/alpaenf/H1D023032_MUKHAMMAD-ALFAEN-FADILLAH_TUGAS-7-PERTEMUAN-9-PRAKTIKUM-PEMROGRAMAN-MOBILE/blob/main/lib/Perekaman%20Layar%202025-11-17%20204007.gif" width="250">
 
 ---
